@@ -31,14 +31,14 @@ with the existing blocks there is no possible route, return -1.
 The Knight's problem is generally solved in O(2) time.
 However it is possible in O(1) with contstraints, try it.
 
-# Test routes/example start and end positions
-# (0,2) -> (0,7)
-# (2,6) -> (1, 2)
-# (7, 1) -> (7, 2)
-# (5,3) -> (2, 7)
-# (6,4) -> (4,3)
-# (6,2) -> (4,3)
-# (0, 7) -> (0,6)
+### Test routes/example start and end positions
+(0,2) -> (0,7)
+(2,6) -> (1, 2)
+(7, 1) -> (7, 2)
+(5,3) -> (2, 7)
+(6,4) -> (4,3)
+(6,2) -> (4,3)
+(0, 7) -> (0,6)
 
 board = [
     [0, 0, 0, 0, 1, 0, 0, 0],
