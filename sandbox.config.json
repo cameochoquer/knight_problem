@@ -1,0 +1,6 @@
+{
+  "template": "python3",
+  "container": {
+    "startCommand": "python main.py"
+  }
+}
