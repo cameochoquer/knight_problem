@@ -19,3 +19,11 @@ board = [
 ]
 
 print("knight's problem")
+
+
+def main():
+    pass
+
+
+if __name__ == "__main__":
+    print("main")
